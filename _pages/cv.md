@@ -36,11 +36,20 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
+* Technical Product Managment
+* Languages Used:
+  * C++
+  * Java
+  * JavaScript
+  * Python
+* Ansible
+* Confluence
+* CI/CD
+* Docker
+* Django
+* Elastic Stack
+* Git
+* GitHub
+* GitLab
+* Jira
+* MEAN Stack
