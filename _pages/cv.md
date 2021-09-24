@@ -13,19 +13,33 @@ Education
 ======
 * B.S. in Computer Science, Norfolk State University, 2012
 * M.S. in Computer Science, Norfolk State University, 2014
-* Ph.D in Information Technology, Towson University, 2024 (expected)
+* D.Sc. in Information Technology, Towson University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#### National Security Agency
+* Developer Ecosystem & Open Source Lead
+  * Full-time | Jan 2019 - Present
+* Technical Product Owner
+  * Full-time | Jan 2017 - Jan 2019
+* Software Engineer 
+  * Full-time | Jan 2015 - Jan 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#### Norfolk State University 
+* Scientific Researcher in Computer Forensics
+  * Full-time | Jan 2015 - Jan 2017
+
+#### National Security Agency (Intern)
+* Data Center Operations Manager
+  * Full-time | May 2014 - Aug 2014
+  
+  #### U.S. Army Test and Evaluation Command (Intern)
+* Software Developer
+  * Full-time | Jan 2013 - Aug 2013
+
+#### Virginia Tech (Intern)
+* Scientific Researcher in Human-Computer Interaction
+  * Full-time | May 2010 - Aug 2010
   
 Skills
 ======
