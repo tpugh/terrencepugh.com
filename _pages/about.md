@@ -16,9 +16,4 @@ I started my graduate studies at Norfolk State University where I studied comput
 
 Devs Like Us
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+During the 2020 pandemic, I co-founded The Devs Like Us community with two of my long-time friends from school. This community was established to provide a supportive group for developers of all kinds with a focus on diversity, minorities, and resources to increase entry, retention, and success within the technical workforce.In support of this effort, I help produce and participate in a podcast, produce educational content and tutorials, and write the Devs Like Us newsletter.
