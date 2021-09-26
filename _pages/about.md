@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Technologist with experience in software development, technical product management, and DevOps principles. Enjoys the process of ensuring technical teams work well together to deliver high-quality services to end-users.
+I'm a technologist with experience in software development, technical product management, and DevOps principles. I enjoy the process of ensuring technical teams work well together to deliver high-quality services to end-users.
 
 Education
 ======
