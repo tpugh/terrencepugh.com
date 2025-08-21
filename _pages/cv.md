@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Norfolk State University, 2012
 * M.S. in Computer Science, Norfolk State University, 2014
-* PhD in Information Technology, Towson University, May 2025
+* [PhD in Information Technology](https://www.parchment.com/u/award/078c781ed763053ced6d4f355bd35e50/file), Towson University, May 2025
 
 Work experience
 ======
