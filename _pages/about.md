@@ -16,4 +16,4 @@ I started my graduate studies at Norfolk State University (NSU) where I studied 
 
 Devs Like Us
 ======
-During the 2020 pandemic, I co-founded The Devs Like Us community with two of my long-time friends from school. This community was established to provide a supportive group for developers of all kinds with a focus on diversity, minorities, and resources to increase entry, retention, and success within the technical workforce. In support of this effort, I help produce and participate in a podcast, produce educational content, and write the Devs Like Us newsletter.
+During the 2020 pandemic, I co-founded The Devs Like Us community with two of my long-time friends from school. This community was established to provide a supportive community for developers of all kinds with a focus on the underrepresented in order to increase entry, retention and success within the technical workforce. In support of this effort, I help produce and participate in a podcast, produce educational content, and write the Devs Like Us newsletter.
